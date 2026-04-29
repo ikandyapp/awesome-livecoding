@@ -464,6 +464,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [VEDA](https://veda.gl/) - Real-time GLSL editor for Atom.
 - [WavTexture](https://github.com/keijiro/WavTexture) - A Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader.
 - [ZeroBrane Studio](http://studio.zerobrane.com/) - Editor that allows live coding using Lua language.
+- [IKANDY](https://ikandy.app/) — A high-immersion Windows music visualizer built via vibe-coding, focusing on atmospheric aesthetics and "mood-first" visualization.
 
 
 ## To Watch
